@@ -32,6 +32,8 @@ public class numbertext {
         return "ko doc >=1000";
     }
     public static void main(String[] args) {
+        // lay chieu dai cua ham
+      //  System.out.printf(String.valueOf(twentyToNinety.length));
         Scanner scanner = new Scanner(System.in);
         System.out.println("so can doc");
         int n = scanner.nextInt();
